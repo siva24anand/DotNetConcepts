@@ -1,0 +1,11 @@
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\bin\Debug\net8.0\EventHandlers.deps.json
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\bin\Debug\net8.0\EventHandlers.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\bin\Debug\net8.0\EventHandlers.pdb
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\EventHandlers.AssemblyInfoInputs.cache
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\EventHandlers.AssemblyInfo.cs
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\EventHandlers.csproj.CoreCompileInputs.cache
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\EventHandlers.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\refint\EventHandlers.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\EventHandlers.pdb
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\ref\EventHandlers.dll
