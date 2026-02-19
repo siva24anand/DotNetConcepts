@@ -16,3 +16,13 @@ C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\obj\Debug\net8.0\ref
 C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\obj\Debug\net8.0\MainConsoleApp.pdb
 C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\obj\Debug\net8.0\MainConsoleApp.genruntimeconfig.cache
 C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\obj\Debug\net8.0\ref\MainConsoleApp.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\obj\Debug\net8.0\MainConsoleApp.sourcelink.json
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\MainConsoleApp\bin\Debug\net8.0\System.Memory.Data.dll

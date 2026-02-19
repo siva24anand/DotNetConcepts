@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\orderplacedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\orderplacedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\delegateconcepts\\actionconcept\\mainaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\delegateconcepts\\actionconcept\\mainaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\delegateconcepts\\funcconcept\\mainfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\delegateconcepts\\funcconcept\\mainfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\delegateconcepts\\multicastdelegate\\mainmulticast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\delegateconcepts\\multicastdelegate\\mainmulticast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\delegateconcepts\\simpledelegate\\mainsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\delegateconcepts\\simpledelegate\\mainsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\delegateconcepts\\simpledelegate\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\delegateconcepts\\simpledelegate\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\delegateconcepts\\multicastdelegate\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\delegateconcepts\\multicastdelegate\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\delegateconcepts\\maindelegateconcepts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\delegateconcepts\\maindelegateconcepts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2985F5D-19D5-4FB1-AC85-861B5C5BB900}|MainConsoleApp\\MainConsoleApp.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\mainconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2985F5D-19D5-4FB1-AC85-861B5C5BB900}|MainConsoleApp\\MainConsoleApp.csproj|solutionrelative:mainconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|c:\\siva\\study\\projects\\dotnet\\dotnetconcepts\\eventhandlers\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECF4E5F-905D-46B4-BA7F-75EC9C97E9C8}|EventHandlers\\EventHandlers.csproj|solutionrelative:eventhandlers\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,81 +62,118 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderPlacedEventArgs.cs",
-              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\OrderPlacedEventArgs.cs",
-              "RelativeDocumentMoniker": "EventHandlers\\OrderPlacedEventArgs.cs",
-              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\OrderPlacedEventArgs.cs",
-              "RelativeToolTip": "EventHandlers\\OrderPlacedEventArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MainFunc.cs",
+              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\FuncConcept\\MainFunc.cs",
+              "RelativeDocumentMoniker": "EventHandlers\\DelegateConcepts\\FuncConcept\\MainFunc.cs",
+              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\FuncConcept\\MainFunc.cs",
+              "RelativeToolTip": "EventHandlers\\DelegateConcepts\\FuncConcept\\MainFunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:25:24.48Z",
+              "WhenOpened": "2026-01-18T21:20:51.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuditService.cs",
-              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\AuditService.cs",
-              "RelativeDocumentMoniker": "EventHandlers\\AuditService.cs",
-              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\AuditService.cs",
-              "RelativeToolTip": "EventHandlers\\AuditService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB0AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MainAction.cs",
+              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\ActionConcept\\MainAction.cs",
+              "RelativeDocumentMoniker": "EventHandlers\\DelegateConcepts\\ActionConcept\\MainAction.cs",
+              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\ActionConcept\\MainAction.cs",
+              "RelativeToolTip": "EventHandlers\\DelegateConcepts\\ActionConcept\\MainAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:05:08.935Z",
+              "WhenOpened": "2026-01-18T21:15:06.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\EmailService.cs",
-              "RelativeDocumentMoniker": "EventHandlers\\EmailService.cs",
-              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\EmailService.cs",
-              "RelativeToolTip": "EventHandlers\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Title": "MainMulticast.cs",
+              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\MulticastDelegate\\MainMulticast.cs",
+              "RelativeDocumentMoniker": "EventHandlers\\DelegateConcepts\\MulticastDelegate\\MainMulticast.cs",
+              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\MulticastDelegate\\MainMulticast.cs",
+              "RelativeToolTip": "EventHandlers\\DelegateConcepts\\MulticastDelegate\\MainMulticast.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:04:24.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\OrderService.cs",
-              "RelativeDocumentMoniker": "EventHandlers\\OrderService.cs",
-              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\OrderService.cs",
-              "RelativeToolTip": "EventHandlers\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:04:02.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\Main.cs",
-              "RelativeDocumentMoniker": "EventHandlers\\Main.cs",
-              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\Main.cs",
-              "RelativeToolTip": "EventHandlers\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T22:44:18.443Z",
+              "WhenOpened": "2026-01-18T21:00:22.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\MulticastDelegate\\Notification.cs",
+              "RelativeDocumentMoniker": "EventHandlers\\DelegateConcepts\\MulticastDelegate\\Notification.cs",
+              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\MulticastDelegate\\Notification.cs",
+              "RelativeToolTip": "EventHandlers\\DelegateConcepts\\MulticastDelegate\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:58:48.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainSimple.cs",
+              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\SimpleDelegate\\MainSimple.cs",
+              "RelativeDocumentMoniker": "EventHandlers\\DelegateConcepts\\SimpleDelegate\\MainSimple.cs",
+              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\SimpleDelegate\\MainSimple.cs",
+              "RelativeToolTip": "EventHandlers\\DelegateConcepts\\SimpleDelegate\\MainSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:33:41.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\SimpleDelegate\\Calculator.cs",
+              "RelativeDocumentMoniker": "EventHandlers\\DelegateConcepts\\SimpleDelegate\\Calculator.cs",
+              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\SimpleDelegate\\Calculator.cs",
+              "RelativeToolTip": "EventHandlers\\DelegateConcepts\\SimpleDelegate\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:32:50.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainDelegateConcepts.cs",
+              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\MainDelegateConcepts.cs",
+              "RelativeDocumentMoniker": "EventHandlers\\DelegateConcepts\\MainDelegateConcepts.cs",
+              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\DelegateConcepts\\MainDelegateConcepts.cs",
+              "RelativeToolTip": "EventHandlers\\DelegateConcepts\\MainDelegateConcepts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:22:06.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\Main.cs",
+              "RelativeDocumentMoniker": "EventHandlers\\Main.cs",
+              "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\EventHandlers\\Main.cs",
+              "RelativeToolTip": "EventHandlers\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T22:44:18.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\MainConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "MainConsoleApp\\Program.cs",
               "ToolTip": "C:\\Siva\\Study\\Projects\\DotNet\\DotNetConcepts\\MainConsoleApp\\Program.cs",
               "RelativeToolTip": "MainConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T22:42:23.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T22:42:23.199Z"
             }
           ]
         }

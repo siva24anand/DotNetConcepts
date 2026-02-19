@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EventHandlers
 {
-    public class OrderPlacedEventArgs: EventArgs
+    public class OrderPlacedEventArgs
     {
         public int OrderId { get; set; }
         public decimal Amount { get; set; }

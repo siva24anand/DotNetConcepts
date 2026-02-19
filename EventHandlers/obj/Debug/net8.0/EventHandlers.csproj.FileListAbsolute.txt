@@ -9,3 +9,5 @@ C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\Even
 C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\refint\EventHandlers.dll
 C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\EventHandlers.pdb
 C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\ref\EventHandlers.dll
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\EventHandlers.sourcelink.json
+C:\Siva\Study\Projects\DotNet\DotNetConcepts\EventHandlers\obj\Debug\net8.0\EventHandlers.csproj.AssemblyReference.cache
